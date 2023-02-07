@@ -3,18 +3,10 @@
 Swipe stack flutter.
 
 - [swipe_stack](#swipestack)
-  - [Screenshot](#Screenshot)
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [Manuel Usage](#Manuel-Usage)
 
-## Screenshot
-
-<img src="https://raw.githubusercontent.com/gmetekorkmaz/images/master/swipe-stack/swipe.jpg" width="300">
-<img src="https://raw.githubusercontent.com/gmetekorkmaz/images/master/swipe-stack/top.jpg" width="300">
-<img src="https://raw.githubusercontent.com/gmetekorkmaz/images/master/swipe-stack/left.jpg" width="300">
-<img src="https://raw.githubusercontent.com/gmetekorkmaz/images/master/swipe-stack/right.jpg" width="300">
-<img src="https://raw.githubusercontent.com/gmetekorkmaz/images/master/swipe-stack/bottom.jpg" width="300">
 
 ## Installation
 
